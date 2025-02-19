@@ -1,0 +1,1 @@
+var quantaty122 = 122;
